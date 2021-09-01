@@ -1,0 +1,63 @@
+---------------------------------------
+---v0.5---(29th of May- 1st of June)
+-game start-----(early prealpha release)
+---------------------------------------
+buildings:
+--woodmaker--
+--forester--
+--tools makery--
+---------------------------------------
+resources:
+--wood--
+--money--
+--stone--
+--instruments--
+--people--
+---------------------------------------
+functions:
+--people motion--
+--settings--
+---------------------------------------
+---v.0.6.1---(1st of June - 5th of June)
+(1/3) little part of big update(v.0.6)
+---------------------------------------
+buildings:
+--stone cutter hut--
+--house--
+---------------------------------------
+gameplay:
+--new map--
+---------------------------------------
+functions:
+--None--
+---------------------------------------
+---v.0.6.2---(6th of June- 13 of June)
+(2/3) little part of big update(v.0.6)
+---------------------------------------
+buildings:
+--None--
+---------------------------------------
+functions:
+--first server--(logic_in search of host)
+--woodcutter state window--
+--people sleeping button--
+---------------------------------------
+gameplay:
+--update of state windows--
+---------------------------------------
+--v.0.6.3--(13th of June- 10 of July)
+(3/3) little part of big update(v.0.6)
+---------------------------------------
+buildings:
+--None--
+---------------------------------------
+functions:
+--game servers--
+--cryptography--
+---------------------------------------
+gameplay:
+--new game textures--
+--added level bars--
+--added log in and sign up--
+---------------------------------------
+----v.0.7.1--(10th of July- ?? of July)

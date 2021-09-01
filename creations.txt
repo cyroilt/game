@@ -1,0 +1,3 @@
+woodcutter {'building':{'money':10,'human':1},'working':{'woktype':'wc','resource':'forest','use1':'instruments 1','use2':'meal 1','resuse':1,'result':'wood 1'},'skin':'wc.png'}
+forester {'building':{'money':10,'wood':3,'human':1},'working':{'woktype':'frsr','resource':'forest','use1':'instruments 1','use2':'meal 1','resuse':-1,'result':'wood 0'},'skin':'forester.png'}
+toolsmaker {'building':{'money':6,'human':1}'working':{'woktype':'tsm','resource':'tsm','use1':'wood 1','use2':'meal 1','resuse':0,'result':'tools 1'},'skin':'toolsmaker.png'}

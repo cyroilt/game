@@ -1,0 +1,44 @@
+{
+	"themes": [
+		{
+			"name": "darkrest-sand",
+			"font": "Helvetica 10",
+			"type": "dark",
+			"colors": {
+				"primary": "#c2c283",
+				"secondary": "#d8d8af",
+				"success": "#00a800",
+				"info": "#3a4e6d",
+				"warning": "#9e9b25",
+				"danger": "#d13210",
+				"bg": "#12151d",
+				"fg": "#aab3ca",
+				"selectbg": "#444444",
+				"selectfg": "#1c2c64",
+				"border": "#000000",
+				"inputfg": "#383838",
+				"inputbg": "#a4a4a4"
+			}
+		},
+		{
+			"name": "darkrest-blue",
+			"font": "Helvetica 10",
+			"type": "dark",
+			"colors": {
+				"primary": "#2460fb",
+				"secondary": "#9db8fd",
+				"success": "#00a800",
+				"info": "#3a4e6d",
+				"warning": "#9e9b25",
+				"danger": "#d13210",
+				"bg": "#FFFFFF",
+				"fg": "#aab3ca",
+				"selectbg": "#444444",
+				"selectfg": "#011a58",
+				"border": "#000000",
+				"inputfg": "#011a58",
+				"inputbg": "#c5d5fe"
+			}
+		}
+	]
+}
